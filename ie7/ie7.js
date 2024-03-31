@@ -13,6 +13,8 @@
 		el.innerHTML = '<span style="font-family: \'bloxflip\'">' + entity + '</span>' + html;
 	}
 	var icons = {
+		'bfi-bulb': '&#xe908;',
+		'bfi-bulb-outline': '&#xe909;',
 		'bfi-logo': '&#xe900;',
 		'bfi-logo-outline': '&#xe901;',
 		'bfi-settings-outline': '&#xe906;',
