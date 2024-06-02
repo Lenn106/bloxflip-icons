@@ -11,13 +11,6 @@
   font-display: block;
 }
 
-body::before {
-content: "shit";
-font-size: 69px;
-color:red;
-text-align: center;
-}
-
 .bfi {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'bloxflip' !important;
