@@ -256,7 +256,7 @@ background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAB38AAANkCAYA
 z-index: 999999999999999999; 
 background-size: contain; 
 background-repeat: no-repeat;
-background-position: center; /
+background-position: center; 
 }
   .mod-container{
 z-index:-999;
