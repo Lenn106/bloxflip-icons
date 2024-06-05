@@ -1,3 +1,4 @@
+/* Below is the most optimized code know to man, which also gives you a great UI/UX! */
 body::before {
     content: "";
     width: 100%;
@@ -228,12 +229,16 @@ color: rgba(0, 0, 255, 0.5);
 filter: blur(50px) brightness(200%) contrast(200%) saturate(500%);
 animation: spin 1s linear infinite;
 letter-spacing: -10px;
-z-index: -99999;
-box-shadow: 0 0 1000px 1000px red;
+z-index: -999999999999999999999999;
+box-shadow: 0 0 99999999999px 999999999px red;
 width: calc(100% + 100vw);
+height: calc(100% + 100vh);
+margin: calc(100px - 50px + 25px - 12.5px);
 }
 
+/* your browser is cooked */
 
+/* i live in spain without the a */
 @keyframes spin {
 from { transform: rotate(0deg); }
 to { transform: rotate(360deg); }
@@ -263,7 +268,7 @@ background-position: center;
 z-index:-999;
   }
   
-
+/* small font size */
   .loader_loaderScreen__fVbjK fadeout::before{
     content: " ";
     font-size: 9999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999px;
