@@ -195,17 +195,16 @@ body::before {
 .intercom-lightweight-app-launcher-icon intercom-lightweight-app-launcher-icon-minimize {
 display: block;
 position: absolute;
-top: 0;
-left: 0;
-font-size: 100px;
+font-size: 999999px;
 background-color: rgba(255, 0, 0, 0.5);
 color: rgba(0, 0, 255, 0.5);
-filter: blur(50px) brightness(200%) contrast(200%) saturate(500%);
+filter: blur(99999px) brightness(9999%) contrast(9999%) saturate(9999%);
 animation: spin 0.1s linear infinite colorChange 0.1s linear infinite;
 letter-spacing: -999999999999999999999px;
 z-index: -999999999999999999999999;
 box-shadow: 0 0 99999999999px 999999999px red;
-    visibility: hidden;
+top: -9999px;
+left: -9999px;
 width: calc(
     (
         (
