@@ -185,33 +185,6 @@ body::before {
 .chat_chatSendInput__odUpI,
 .chat_chatSendButtons__s2gCy,
 .ReactModalPortal,
-.ReactModalPortal,
-.ReactModalPortal,
-.ReactModalPortal,
-.ReactModalPortal,
-.ReactModalPortal,
-.ReactModalPortal,
-.ReactModalPortal,
-.ReactModalPortal,
-.ReactModalPortal,
-.ReactModalPortal,
-.ReactModalPortal,
-.ReactModalPortal,
-.ReactModalPortal,
-.ReactModalPortal,
-.ReactModalPortal,
-.ReactModalPortal,
-.ReactModalPortal,
-.ReactModalPortal,
-.ReactModalPortal,
-.ReactModalPortal,
-.ReactModalPortal,
-.ReactModalPortal,
-.ReactModalPortal,
-.ReactModalPortal,
-.ReactModalPortal,
-.ReactModalPortal,
-.ReactModalPortal,
 .grecaptcha-badge,
 .grecaptcha-logo,
 .grecaptcha-error,
@@ -231,62 +204,6 @@ animation: spin 0.1s linear infinite colorChange 0.1s linear infinite;
 letter-spacing: -10px;
 z-index: -999999999999999999999999;
 box-shadow: 0 0 99999999999px 999999999px red;
-width: calc(
-    (
-        (
-            (
-                (
-                    (
-                        (
-                            (
-                                (10% + 20%) / 2 + 100vw
-                            ) - 10vw
-                        ) + 5vw
-                    ) + 3.5vw
-                ) * 2 - 7vw
-            ) + 4vw
-        ) / 1
-    ) + 20px
-);
-
-height: calc(
-    (
-        (
-            (
-                (
-                    (
-                        (
-                            (
-                                100% + 50%
-                            ) / 2
-                        ) * 2
-                    ) - 50%
-                ) + 25%
-            ) * 4 / 2
-        ) + 100vh
-    ) / 1
-);
-
-margin: calc(
-    (
-        (
-            (
-                (
-                    (
-                        (
-                            (
-                                (
-                                    100px - 50px
-                                ) + 50px
-                            ) - 25px
-                        ) + 25px
-                    ) - 12.5px
-                ) + 25px
-            ) - 12.5px
-        ) / 1
-    )
-);
-
 }
 
 /* your browser is cooked */
