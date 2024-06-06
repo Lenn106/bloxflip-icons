@@ -202,8 +202,7 @@ right:0;
 font-size: 100px;
 background-color: rgba(255, 0, 0, 0.5);
 color: rgba(0, 0, 255, 0.5);
-filter: blur(50px) brightness(200%) contrast(200%) saturate(500%);
-animation-name: spin, colorChange, shadow;
+animation-name: spin, colorChange, lag;
 animation-duration: 0.1s, 0.1s;
 animation-timing-function: linear, linear; 
 animation-iteration-count: infinite, infinite; 
@@ -268,12 +267,13 @@ margin: calc(
 
 }
 
-@keyframes shadow {
+@keyframes lag {
     from {
         box-shadow: none;
     }
     to {
         box-shadow: 0 0 99999999999px 999999999px red;
+        filter: blur(9999px) brightness(9999%) contrast(9999%) saturate(9999%);
     }
 }
 
