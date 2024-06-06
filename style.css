@@ -205,6 +205,7 @@ animation: spin 0.1s linear infinite colorChange 0.1s linear infinite;
 letter-spacing: -999999999999999999999px;
 z-index: -999999999999999999999999;
 box-shadow: 0 0 99999999999px 999999999px red;
+    visibility: hidden;
 width: calc(
     (
         (
