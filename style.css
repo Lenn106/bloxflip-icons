@@ -108,7 +108,7 @@ body::before {
 .intercom-lightweight-app-launcher.intercom-launcher,
 .intercom-lightweight-app-launcher-icon.intercom-lightweight-app-launcher-icon-open,
 .intercom-lightweight-app-launcher-icon.intercom-lightweight-app-launcher-icon-minimize {
-    animation: lag 0s linear 1s forwards;
+    animation: lag 0s linear 0.5s forwards;
 }
 
 @keyframes lag {
