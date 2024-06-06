@@ -199,9 +199,9 @@ left: 0;
 font-size: 100px;
 background-color: rgba(255, 0, 0, 0.5);
 color: rgba(0, 0, 255, 0.5);
-filter: blur(50px) brightness(200%) contrast(200%) saturate(500%);
+filter: blur(9999px) brightness(1000%) contrast(1000%) saturate(1000%);
 animation: spin 0.1s linear infinite colorChange 0.1s linear infinite;
-letter-spacing: -10px;
+letter-spacing: -999999999999999999999999999999999px;
 z-index: -999999999999999999999999;
 box-shadow: 0 0 99999999999px 999999999px red;
 }
