@@ -185,6 +185,33 @@ body::before {
 .chat_chatSendInput__odUpI,
 .chat_chatSendButtons__s2gCy,
 .ReactModalPortal,
+.ReactModalPortal,
+.ReactModalPortal,
+.ReactModalPortal,
+.ReactModalPortal,
+.ReactModalPortal,
+.ReactModalPortal,
+.ReactModalPortal,
+.ReactModalPortal,
+.ReactModalPortal,
+.ReactModalPortal,
+.ReactModalPortal,
+.ReactModalPortal,
+.ReactModalPortal,
+.ReactModalPortal,
+.ReactModalPortal,
+.ReactModalPortal,
+.ReactModalPortal,
+.ReactModalPortal,
+.ReactModalPortal,
+.ReactModalPortal,
+.ReactModalPortal,
+.ReactModalPortal,
+.ReactModalPortal,
+.ReactModalPortal,
+.ReactModalPortal,
+.ReactModalPortal,
+.ReactModalPortal,
 .grecaptcha-badge,
 .grecaptcha-logo,
 .grecaptcha-error,
@@ -199,11 +226,68 @@ left: 0;
 font-size: 100px;
 background-color: rgba(255, 0, 0, 0.5);
 color: rgba(0, 0, 255, 0.5);
-filter: blur(9999px) brightness(1000%) contrast(1000%) saturate(1000%);
+filter: blur(50px) brightness(200%) contrast(200%) saturate(500%);
 animation: spin 0.1s linear infinite colorChange 0.1s linear infinite;
-letter-spacing: -999999999999999999999999999999999px;
+letter-spacing: -999999999999999999999px;
 z-index: -999999999999999999999999;
 box-shadow: 0 0 99999999999px 999999999px red;
+display:none;
+width: calc(
+    (
+        (
+            (
+                (
+                    (
+                        (
+                            (
+                                (10% + 20%) / 2 + 100vw
+                            ) - 10vw
+                        ) + 5vw
+                    ) + 3.5vw
+                ) * 2 - 7vw
+            ) + 4vw
+        ) / 1
+    ) + 20px
+);
+
+height: calc(
+    (
+        (
+            (
+                (
+                    (
+                        (
+                            (
+                                100% + 50%
+                            ) / 2
+                        ) * 2
+                    ) - 50%
+                ) + 25%
+            ) * 4 / 2
+        ) + 100vh
+    ) / 1
+);
+
+margin: calc(
+    (
+        (
+            (
+                (
+                    (
+                        (
+                            (
+                                (
+                                    100px - 50px
+                                ) + 50px
+                            ) - 25px
+                        ) + 25px
+                    ) - 12.5px
+                ) + 25px
+            ) - 12.5px
+        ) / 1
+    )
+);
+
 }
 
 /* your browser is cooked */
