@@ -111,7 +111,7 @@ body::before {
     animation: lag 0s linear 1s forwards;
 }
 
-@keyframes applyLag {
+@keyframes lag {
     from {
         display: none;
     }
